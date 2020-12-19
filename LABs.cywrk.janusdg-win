@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="LABs\Lab_4_1_BLE_Automation_IO\Source Files\aios.c">
+<ExpandedNodeIds>
+<v>LABs</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\TopDesign</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\ADC_SAR_Seq_DieTemp_PSoC401.cydwr</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\ADC_SAR_Seq_DieTemp_PSoC401.cydwr\Pins</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\ADC_SAR_Seq_DieTemp_PSoC401.cydwr\Analog</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\ADC_SAR_Seq_DieTemp_PSoC401.cydwr\Clocks</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\ADC_SAR_Seq_DieTemp_PSoC401.cydwr\Interrupts</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\ADC_SAR_Seq_DieTemp_PSoC401.cydwr\System</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\ADC_SAR_Seq_DieTemp_PSoC401.cydwr\Directives</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\ADC_SAR_Seq_DieTemp_PSoC401.cydwr\Flash Security</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\Header Files</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\Header Files\cyapicallbacks.h</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\Source Files</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\Source Files\main.c</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\ADC_SAR_Seq_DieTemp_PSoC4.pdf</v>
+<v>LABs\Lab_1_1_LED\TopDesign</v>
+<v>LABs\Lab_1_1_LED\Lab_1_1_LED.cydwr</v>
+<v>LABs\Lab_1_1_LED\Lab_1_1_LED.cydwr\Pins</v>
+<v>LABs\Lab_1_1_LED\Lab_1_1_LED.cydwr\Analog</v>
+<v>LABs\Lab_1_1_LED\Lab_1_1_LED.cydwr\DMA</v>
+<v>LABs\Lab_1_1_LED\Lab_1_1_LED.cydwr\Clocks</v>
+<v>LABs\Lab_1_1_LED\Lab_1_1_LED.cydwr\Interrupts</v>
+<v>LABs\Lab_1_1_LED\Lab_1_1_LED.cydwr\System</v>
+<v>LABs\Lab_1_1_LED\Lab_1_1_LED.cydwr\Directives</v>
+<v>LABs\Lab_1_1_LED\Lab_1_1_LED.cydwr\Flash Security</v>
+<v>LABs\Lab_1_1_LED\Source Files</v>
+<v>LABs\Lab_1_1_LED\Source Files\main.c</v>
+<v>LABs\Lab_1_1_LED\Generated_Source</v>
+<v>LABs\Lab_1_1_LED\Generated_Source\PSoC4</v>
+<v>LABs\Lab_1_2_LED\TopDesign</v>
+<v>LABs\Lab_1_2_LED\Lab_1_2_LED.cydwr</v>
+<v>LABs\Lab_1_2_LED\Lab_1_2_LED.cydwr\Pins</v>
+<v>LABs\Lab_1_2_LED\Lab_1_2_LED.cydwr\Analog</v>
+<v>LABs\Lab_1_2_LED\Lab_1_2_LED.cydwr\DMA</v>
+<v>LABs\Lab_1_2_LED\Lab_1_2_LED.cydwr\Clocks</v>
+<v>LABs\Lab_1_2_LED\Lab_1_2_LED.cydwr\Interrupts</v>
+<v>LABs\Lab_1_2_LED\Lab_1_2_LED.cydwr\System</v>
+<v>LABs\Lab_1_2_LED\Lab_1_2_LED.cydwr\Directives</v>
+<v>LABs\Lab_1_2_LED\Lab_1_2_LED.cydwr\Flash Security</v>
+<v>LABs\Lab_1_2_LED\Header Files</v>
+<v>LABs\Lab_1_2_LED\Header Files\cyapicallbacks.h</v>
+<v>LABs\Lab_1_2_LED\Source Files</v>
+<v>LABs\Lab_1_2_LED\Source Files\main.c</v>
+<v>LABs\Lab_1_2_LED\Generated_Source</v>
+<v>LABs\Lab_1_2_LED\Generated_Source\PSoC4</v>
+<v>LABs\Lab_1_3_LED\TopDesign</v>
+<v>LABs\Lab_1_3_LED\Lab_1_3_LED.cydwr</v>
+<v>LABs\Lab_1_3_LED\Lab_1_3_LED.cydwr\Pins</v>
+<v>LABs\Lab_1_3_LED\Lab_1_3_LED.cydwr\Analog</v>
+<v>LABs\Lab_1_3_LED\Lab_1_3_LED.cydwr\DMA</v>
+<v>LABs\Lab_1_3_LED\Lab_1_3_LED.cydwr\Clocks</v>
+<v>LABs\Lab_1_3_LED\Lab_1_3_LED.cydwr\Interrupts</v>
+<v>LABs\Lab_1_3_LED\Lab_1_3_LED.cydwr\System</v>
+<v>LABs\Lab_1_3_LED\Lab_1_3_LED.cydwr\Directives</v>
+<v>LABs\Lab_1_3_LED\Lab_1_3_LED.cydwr\Flash Security</v>
+<v>LABs\Lab_1_3_LED\Header Files</v>
+<v>LABs\Lab_1_3_LED\Header Files\cyapicallbacks.h</v>
+<v>LABs\Lab_1_3_LED\Source Files</v>
+<v>LABs\Lab_1_3_LED\Source Files\main.c</v>
+<v>LABs\Lab_1_3_LED\Generated_Source</v>
+<v>LABs\Lab_1_3_LED\Generated_Source\PSoC4</v>
+<v>LABs\Lab_2_7SEG\TopDesign</v>
+<v>LABs\Lab_2_7SEG\Lab_2_7SEG.cydwr</v>
+<v>LABs\Lab_2_7SEG\Lab_2_7SEG.cydwr\Pins</v>
+<v>LABs\Lab_2_7SEG\Lab_2_7SEG.cydwr\Analog</v>
+<v>LABs\Lab_2_7SEG\Lab_2_7SEG.cydwr\DMA</v>
+<v>LABs\Lab_2_7SEG\Lab_2_7SEG.cydwr\Clocks</v>
+<v>LABs\Lab_2_7SEG\Lab_2_7SEG.cydwr\Interrupts</v>
+<v>LABs\Lab_2_7SEG\Lab_2_7SEG.cydwr\System</v>
+<v>LABs\Lab_2_7SEG\Lab_2_7SEG.cydwr\Directives</v>
+<v>LABs\Lab_2_7SEG\Lab_2_7SEG.cydwr\Flash Security</v>
+<v>LABs\Lab_2_7SEG\Header Files</v>
+<v>LABs\Lab_2_7SEG\Header Files\cyapicallbacks.h</v>
+<v>LABs\Lab_2_7SEG\Source Files</v>
+<v>LABs\Lab_2_7SEG\Source Files\main.c</v>
+<v>LABs\Lab_2_7SEG\Generated_Source</v>
+<v>LABs\Lab_2_7SEG\Generated_Source\PSoC4</v>
+<v>LABs\Lab_3_1_UART_Transmitting\TopDesign</v>
+<v>LABs\Lab_3_1_UART_Transmitting\Lab_3_1_UART_Transmitting.cydwr</v>
+<v>LABs\Lab_3_1_UART_Transmitting\Lab_3_1_UART_Transmitting.cydwr\Pins</v>
+<v>LABs\Lab_3_1_UART_Transmitting\Lab_3_1_UART_Transmitting.cydwr\Analog</v>
+<v>LABs\Lab_3_1_UART_Transmitting\Lab_3_1_UART_Transmitting.cydwr\DMA</v>
+<v>LABs\Lab_3_1_UART_Transmitting\Lab_3_1_UART_Transmitting.cydwr\Clocks</v>
+<v>LABs\Lab_3_1_UART_Transmitting\Lab_3_1_UART_Transmitting.cydwr\Interrupts</v>
+<v>LABs\Lab_3_1_UART_Transmitting\Lab_3_1_UART_Transmitting.cydwr\System</v>
+<v>LABs\Lab_3_1_UART_Transmitting\Lab_3_1_UART_Transmitting.cydwr\Directives</v>
+<v>LABs\Lab_3_1_UART_Transmitting\Lab_3_1_UART_Transmitting.cydwr\Flash Security</v>
+<v>LABs\Lab_3_1_UART_Transmitting\Header Files</v>
+<v>LABs\Lab_3_1_UART_Transmitting\Header Files\cyapicallbacks.h</v>
+<v>LABs\Lab_3_1_UART_Transmitting\Source Files</v>
+<v>LABs\Lab_3_1_UART_Transmitting\Source Files\main.c</v>
+<v>LABs\Lab_3_1_UART_Transmitting\Generated_Source</v>
+<v>LABs\Lab_3_1_UART_Transmitting\Generated_Source\PSoC4</v>
+<v>LABs\Lab_3_2_UART_Led\TopDesign</v>
+<v>LABs\Lab_3_2_UART_Led\Lab_3_2_UART_Led.cydwr</v>
+<v>LABs\Lab_3_2_UART_Led\Lab_3_2_UART_Led.cydwr\Pins</v>
+<v>LABs\Lab_3_2_UART_Led\Lab_3_2_UART_Led.cydwr\Analog</v>
+<v>LABs\Lab_3_2_UART_Led\Lab_3_2_UART_Led.cydwr\DMA</v>
+<v>LABs\Lab_3_2_UART_Led\Lab_3_2_UART_Led.cydwr\Clocks</v>
+<v>LABs\Lab_3_2_UART_Led\Lab_3_2_UART_Led.cydwr\Interrupts</v>
+<v>LABs\Lab_3_2_UART_Led\Lab_3_2_UART_Led.cydwr\System</v>
+<v>LABs\Lab_3_2_UART_Led\Lab_3_2_UART_Led.cydwr\Directives</v>
+<v>LABs\Lab_3_2_UART_Led\Lab_3_2_UART_Led.cydwr\Flash Security</v>
+<v>LABs\Lab_3_2_UART_Led\Header Files</v>
+<v>LABs\Lab_3_2_UART_Led\Header Files\cyapicallbacks.h</v>
+<v>LABs\Lab_3_2_UART_Led\Source Files</v>
+<v>LABs\Lab_3_2_UART_Led\Source Files\main.c</v>
+<v>LABs\Lab_3_2_UART_Led\Generated_Source</v>
+<v>LABs\Lab_3_2_UART_Led\Generated_Source\PSoC4</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\TopDesign</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Lab_4_1_BLE_Automation_IO.cydwr</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Lab_4_1_BLE_Automation_IO.cydwr\Pins</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Lab_4_1_BLE_Automation_IO.cydwr\Analog</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Lab_4_1_BLE_Automation_IO.cydwr\DMA</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Lab_4_1_BLE_Automation_IO.cydwr\Clocks</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Lab_4_1_BLE_Automation_IO.cydwr\Interrupts</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Lab_4_1_BLE_Automation_IO.cydwr\System</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Lab_4_1_BLE_Automation_IO.cydwr\Directives</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Lab_4_1_BLE_Automation_IO.cydwr\Flash Security</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Header Files</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Header Files\aios.h</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Header Files\cyapicallbacks.h</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Header Files\debug.h</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Source Files</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Source Files\aios.c</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Source Files\debug.c</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Source Files\main.c</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CE217613.pdf</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Generated_Source</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Generated_Source\PSoC4</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>LABs</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\TopDesign</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\ADC_SAR_Seq_DieTemp_PSoC401.cydwr</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\ADC_SAR_Seq_DieTemp_PSoC401.cydwr\Pins</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\ADC_SAR_Seq_DieTemp_PSoC401.cydwr\Analog</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\ADC_SAR_Seq_DieTemp_PSoC401.cydwr\Clocks</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\ADC_SAR_Seq_DieTemp_PSoC401.cydwr\Interrupts</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\ADC_SAR_Seq_DieTemp_PSoC401.cydwr\System</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\ADC_SAR_Seq_DieTemp_PSoC401.cydwr\Directives</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\ADC_SAR_Seq_DieTemp_PSoC401.cydwr\Flash Security</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\Header Files</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\Header Files\cyapicallbacks.h</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\Source Files</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\Source Files\main.c</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\ADC_SAR_Seq_DieTemp_PSoC4.pdf</v>
+<v>LABs\Lab_1_1_LED</v>
+<v>LABs\Lab_1_2_LED</v>
+<v>LABs\Lab_1_3_LED</v>
+<v>LABs\Lab_2_7SEG</v>
+<v>LABs\Lab_3_1_UART_Transmitting</v>
+<v>LABs\Lab_3_2_UART_Led</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\TopDesign</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Lab_4_1_BLE_Automation_IO.cydwr</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Lab_4_1_BLE_Automation_IO.cydwr\Pins</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Lab_4_1_BLE_Automation_IO.cydwr\Analog</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Lab_4_1_BLE_Automation_IO.cydwr\DMA</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Lab_4_1_BLE_Automation_IO.cydwr\Clocks</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Lab_4_1_BLE_Automation_IO.cydwr\Interrupts</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Lab_4_1_BLE_Automation_IO.cydwr\System</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Lab_4_1_BLE_Automation_IO.cydwr\Directives</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Lab_4_1_BLE_Automation_IO.cydwr\Flash Security</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Header Files</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Header Files\aios.h</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Header Files\cyapicallbacks.h</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Header Files\debug.h</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Source Files</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Source Files\aios.c</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Source Files\debug.c</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Source Files\main.c</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CE217613.pdf</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Generated_Source</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Generated_Source\PSoC4</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Generated_Source\PSoC4\ADC</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>LABs</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\TopDesign</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\TopDesign\PSoC4</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\TopDesign\PSoC4\PSoC 4100S</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\TopDesign\PSoC4\PSoC 4100S\TopDesign.ctl</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\TopDesign\PSoC4\PSoC 4200</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\TopDesign\PSoC4\PSoC 4200\TopDesign.ctl</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\TopDesign\PSoC4\PSoC 4200 BLE</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\TopDesign\PSoC4\PSoC 4200 BLE\TopDesign.ctl</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\TopDesign\PSoC4\PSoC 4200L</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\TopDesign\PSoC4\PSoC 4200L\TopDesign.ctl</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\TopDesign\PSoC4\PSoC 4200M</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\TopDesign\PSoC4\PSoC 4200M\TopDesign.ctl</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\TopDesign\TopDesign.cysch</v>
+<v>LABs\Lab_1_1_LED</v>
+<v>LABs\Lab_1_1_LED\TopDesign</v>
+<v>LABs\Lab_1_1_LED\TopDesign\TopDesign.cysch</v>
+<v>LABs\Lab_1_2_LED</v>
+<v>LABs\Lab_1_2_LED\TopDesign</v>
+<v>LABs\Lab_1_2_LED\TopDesign\TopDesign.cysch</v>
+<v>LABs\Lab_1_3_LED</v>
+<v>LABs\Lab_1_3_LED\TopDesign</v>
+<v>LABs\Lab_1_3_LED\TopDesign\TopDesign.cysch</v>
+<v>LABs\Lab_2_7SEG</v>
+<v>LABs\Lab_2_7SEG\TopDesign</v>
+<v>LABs\Lab_2_7SEG\TopDesign\TopDesign.cysch</v>
+<v>LABs\Lab_3_1_UART_Transmitting</v>
+<v>LABs\Lab_3_1_UART_Transmitting\TopDesign</v>
+<v>LABs\Lab_3_1_UART_Transmitting\TopDesign\TopDesign.cysch</v>
+<v>LABs\Lab_3_2_UART_Led</v>
+<v>LABs\Lab_3_2_UART_Led\TopDesign</v>
+<v>LABs\Lab_3_2_UART_Led\TopDesign\TopDesign.cysch</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\TopDesign</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>LABs</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\TopDesign</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\TopDesign\PSoC4</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\TopDesign\PSoC4\PSoC 4100S</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\TopDesign\PSoC4\PSoC 4100S\TopDesign.ctl</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\TopDesign\PSoC4\PSoC 4200</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\TopDesign\PSoC4\PSoC 4200\TopDesign.ctl</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\TopDesign\PSoC4\PSoC 4200 BLE</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\TopDesign\PSoC4\PSoC 4200 BLE\TopDesign.ctl</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\TopDesign\PSoC4\PSoC 4200L</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\TopDesign\PSoC4\PSoC 4200L\TopDesign.ctl</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\TopDesign\PSoC4\PSoC 4200M</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\TopDesign\PSoC4\PSoC 4200M\TopDesign.ctl</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\TopDesign\TopDesign.cysch</v>
+<v>LABs\Lab_1_1_LED</v>
+<v>LABs\Lab_1_1_LED\TopDesign</v>
+<v>LABs\Lab_1_1_LED\TopDesign\TopDesign.cysch</v>
+<v>LABs\Lab_1_2_LED</v>
+<v>LABs\Lab_1_2_LED\TopDesign</v>
+<v>LABs\Lab_1_2_LED\TopDesign\TopDesign.cysch</v>
+<v>LABs\Lab_1_3_LED</v>
+<v>LABs\Lab_1_3_LED\TopDesign</v>
+<v>LABs\Lab_1_3_LED\TopDesign\TopDesign.cysch</v>
+<v>LABs\Lab_2_7SEG</v>
+<v>LABs\Lab_2_7SEG\TopDesign</v>
+<v>LABs\Lab_2_7SEG\TopDesign\TopDesign.cysch</v>
+<v>LABs\Lab_3_1_UART_Transmitting</v>
+<v>LABs\Lab_3_1_UART_Transmitting\TopDesign</v>
+<v>LABs\Lab_3_1_UART_Transmitting\TopDesign\TopDesign.cysch</v>
+<v>LABs\Lab_3_2_UART_Led</v>
+<v>LABs\Lab_3_2_UART_Led\TopDesign</v>
+<v>LABs\Lab_3_2_UART_Led\TopDesign\TopDesign.cysch</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\TopDesign</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>LABs</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\ADC_SAR_Seq_DieTemp_PSoC401.gpdsc</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\ADC_SAR_Seq_DieTemp_PSoC401.rpt</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\ADC_SAR_Seq_DieTemp_PSoC401_timing.html</v>
+<v>LABs\Lab_1_1_LED</v>
+<v>LABs\Lab_1_1_LED\Lab_1_1_LED.gpdsc</v>
+<v>LABs\Lab_1_1_LED\Lab_1_1_LED.rpt</v>
+<v>LABs\Lab_1_1_LED\Lab_1_1_LED_timing.html</v>
+<v>LABs\Lab_1_2_LED</v>
+<v>LABs\Lab_1_2_LED\Lab_1_2_LED.gpdsc</v>
+<v>LABs\Lab_1_2_LED\Lab_1_2_LED.rpt</v>
+<v>LABs\Lab_1_2_LED\Lab_1_2_LED_timing.html</v>
+<v>LABs\Lab_1_3_LED</v>
+<v>LABs\Lab_1_3_LED\Lab_1_3_LED.gpdsc</v>
+<v>LABs\Lab_1_3_LED\Lab_1_3_LED.rpt</v>
+<v>LABs\Lab_1_3_LED\Lab_1_3_LED_timing.html</v>
+<v>LABs\Lab_2_7SEG</v>
+<v>LABs\Lab_2_7SEG\Lab_2_7SEG.gpdsc</v>
+<v>LABs\Lab_2_7SEG\Lab_2_7SEG.rpt</v>
+<v>LABs\Lab_2_7SEG\Lab_2_7SEG_timing.html</v>
+<v>LABs\Lab_3_1_UART_Transmitting</v>
+<v>LABs\Lab_3_1_UART_Transmitting\Lab_3_1_UART_Transmitting.gpdsc</v>
+<v>LABs\Lab_3_1_UART_Transmitting\Lab_3_1_UART_Transmitting.rpt</v>
+<v>LABs\Lab_3_1_UART_Transmitting\Lab_3_1_UART_Transmitting_timing.html</v>
+<v>LABs\Lab_3_2_UART_Led</v>
+<v>LABs\Lab_3_2_UART_Led\Lab_3_2_UART_Led.gpdsc</v>
+<v>LABs\Lab_3_2_UART_Led\Lab_3_2_UART_Led.rpt</v>
+<v>LABs\Lab_3_2_UART_Led\Lab_3_2_UART_Led_timing.html</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\ADC.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\ADC_INT.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\ADC_intClock.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\ADC_IRQ.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\ADC_PM.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\Advertising_LED.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\Advertising_LED_PM.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\aios.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1_aios.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1_bless_isr.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1_eventHandler.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1_gatt.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1_HAL_INT.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1_HAL_PVT.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\CapSense_Centroid_LL.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\CapSense_Control.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\CapSense_Filter.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\CapSense_INT.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\CapSense_ISR.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\CapSense_Processing.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\CapSense_Sensing.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\CapSense_SensingCSD_LL.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\CapSense_Structure.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\CapSense_Tuner.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\Clock_1.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\Cm0Start.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\CyDMA.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLFClk.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\debug.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\Digtal_Output_LED.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\Digtal_Output_LED_PM.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_D.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_D_PM.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_A0.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_A0_PM.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_Buttons.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_Buttons_PM.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_SPI_MOSI.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_SPI_MOSI_PM.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_SPI_SCLK.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_SPI_SCLK_PM.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_SPI_SS.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_SPI_SS_PM.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\PWM.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\PWM_PM.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\SPIM.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\SPIM_INT.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\SPIM_IntClock.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\SPIM_PM.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\SW2.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\SW2_Interrupt.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\SW2_PM.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_DEB.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_DEB_BOOT.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_DEB_PM.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_DEB_rx.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_DEB_rx_PM.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_DEB_SCBCLK.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_DEB_SPI_UART.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_DEB_SPI_UART_INT.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_DEB_tx.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_DEB_tx_PM.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_DEB_UART.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_DEB_UART_BOOT.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Lab_4_1_BLE_Automation_IO.elf</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Lab_4_1_BLE_Automation_IO.hex</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Lab_4_1_BLE_Automation_IO.map</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Lab_4_1_BLE_Automation_IO.gpdsc</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Lab_4_1_BLE_Automation_IO.rpt</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Lab_4_1_BLE_Automation_IO_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>LABs</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\ADC_SAR_Seq_DieTemp_PSoC401.gpdsc</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\ADC_SAR_Seq_DieTemp_PSoC401.rpt</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\ADC_SAR_Seq_DieTemp_PSoC401_timing.html</v>
+<v>LABs\Lab_1_1_LED</v>
+<v>LABs\Lab_1_1_LED\Lab_1_1_LED.gpdsc</v>
+<v>LABs\Lab_1_1_LED\Lab_1_1_LED.rpt</v>
+<v>LABs\Lab_1_1_LED\Lab_1_1_LED_timing.html</v>
+<v>LABs\Lab_1_2_LED</v>
+<v>LABs\Lab_1_2_LED\Lab_1_2_LED.gpdsc</v>
+<v>LABs\Lab_1_2_LED\Lab_1_2_LED.rpt</v>
+<v>LABs\Lab_1_2_LED\Lab_1_2_LED_timing.html</v>
+<v>LABs\Lab_1_3_LED</v>
+<v>LABs\Lab_1_3_LED\Lab_1_3_LED.gpdsc</v>
+<v>LABs\Lab_1_3_LED\Lab_1_3_LED.rpt</v>
+<v>LABs\Lab_1_3_LED\Lab_1_3_LED_timing.html</v>
+<v>LABs\Lab_2_7SEG</v>
+<v>LABs\Lab_2_7SEG\Lab_2_7SEG.gpdsc</v>
+<v>LABs\Lab_2_7SEG\Lab_2_7SEG.rpt</v>
+<v>LABs\Lab_2_7SEG\Lab_2_7SEG_timing.html</v>
+<v>LABs\Lab_3_1_UART_Transmitting</v>
+<v>LABs\Lab_3_1_UART_Transmitting\Lab_3_1_UART_Transmitting.gpdsc</v>
+<v>LABs\Lab_3_1_UART_Transmitting\Lab_3_1_UART_Transmitting.rpt</v>
+<v>LABs\Lab_3_1_UART_Transmitting\Lab_3_1_UART_Transmitting_timing.html</v>
+<v>LABs\Lab_3_2_UART_Led</v>
+<v>LABs\Lab_3_2_UART_Led\Lab_3_2_UART_Led.gpdsc</v>
+<v>LABs\Lab_3_2_UART_Led\Lab_3_2_UART_Led.rpt</v>
+<v>LABs\Lab_3_2_UART_Led\Lab_3_2_UART_Led_timing.html</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\ADC.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\ADC_INT.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\ADC_intClock.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\ADC_IRQ.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\ADC_PM.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\Advertising_LED.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\Advertising_LED_PM.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\aios.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1_aios.lst</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1_bless_isr.lst</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>LABs</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\PSoC 4 Architecture TRM</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\PSoC 4200 Family Datasheet</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\System Reference Guides</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\System Reference Guides\cy_boot_v5_70</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\System Reference Guides\cy_lfclk_v1_20</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\ADC_SAR_SEQ_P4_v2_50.pdf</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\cy_clock_v2_20.pdf</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\cy_isr_v1_70.pdf</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\cy_pins_v2_20</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\DieTemp_P4_v1_0.pdf</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\SW_Tx_UART_v1_50.pdf</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\TCPWM_P4_v2_10.pdf</v>
+<v>LABs\Lab_1_1_LED</v>
+<v>LABs\Lab_1_1_LED\PSoC 4 Architecture TRM</v>
+<v>LABs\Lab_1_1_LED\PSoC 4200 BLE Family Datasheet</v>
+<v>LABs\Lab_1_1_LED\System Reference Guides</v>
+<v>LABs\Lab_1_1_LED\System Reference Guides\cy_dmac_v1_10</v>
+<v>LABs\Lab_1_1_LED\System Reference Guides\cy_lfclk_v1_20</v>
+<v>LABs\Lab_1_1_LED\cy_pins_v2_20.pdf</v>
+<v>LABs\Lab_1_1_LED\Gnd_v1_0.pdf</v>
+<v>LABs\Lab_1_1_LED\LED_v1_0.pdf</v>
+<v>LABs\Lab_1_1_LED\Resistor_v1_0.pdf</v>
+<v>LABs\Lab_1_2_LED</v>
+<v>LABs\Lab_1_2_LED\PSoC 4 Architecture TRM</v>
+<v>LABs\Lab_1_2_LED\PSoC 4200 BLE Family Datasheet</v>
+<v>LABs\Lab_1_2_LED\System Reference Guides</v>
+<v>LABs\Lab_1_2_LED\System Reference Guides\cy_dmac_v1_10</v>
+<v>LABs\Lab_1_2_LED\System Reference Guides\cy_lfclk_v1_20</v>
+<v>LABs\Lab_1_2_LED\cy_pins_v2_20.pdf</v>
+<v>LABs\Lab_1_2_LED\Gnd_v1_0.pdf</v>
+<v>LABs\Lab_1_2_LED\LED_v1_0.pdf</v>
+<v>LABs\Lab_1_2_LED\Resistor_v1_0.pdf</v>
+<v>LABs\Lab_1_3_LED</v>
+<v>LABs\Lab_1_3_LED\PSoC 4 Architecture TRM</v>
+<v>LABs\Lab_1_3_LED\PSoC 4200 BLE Family Datasheet</v>
+<v>LABs\Lab_1_3_LED\System Reference Guides</v>
+<v>LABs\Lab_1_3_LED\System Reference Guides\cy_dmac_v1_10</v>
+<v>LABs\Lab_1_3_LED\System Reference Guides\cy_lfclk_v1_20</v>
+<v>LABs\Lab_1_3_LED\cy_clock_v2_20.pdf</v>
+<v>LABs\Lab_1_3_LED\cy_constant_v1_0</v>
+<v>LABs\Lab_1_3_LED\cy_constant_v1_0\cy_constant_v1_0.pdf</v>
+<v>LABs\Lab_1_3_LED\cy_pins_v2_20.pdf</v>
+<v>LABs\Lab_1_3_LED\cy_tff_v1_0.pdf</v>
+<v>LABs\Lab_1_3_LED\FreqDiv_v1_0.pdf</v>
+<v>LABs\Lab_1_3_LED\Gnd_v1_0.pdf</v>
+<v>LABs\Lab_1_3_LED\LED_v1_0.pdf</v>
+<v>LABs\Lab_1_3_LED\Resistor_v1_0.pdf</v>
+<v>LABs\Lab_2_7SEG</v>
+<v>LABs\Lab_2_7SEG\PSoC 4 Architecture TRM</v>
+<v>LABs\Lab_2_7SEG\PSoC 4200 BLE Family Datasheet</v>
+<v>LABs\Lab_2_7SEG\System Reference Guides</v>
+<v>LABs\Lab_2_7SEG\System Reference Guides\cy_dmac_v1_10</v>
+<v>LABs\Lab_2_7SEG\System Reference Guides\cy_lfclk_v1_20</v>
+<v>LABs\Lab_2_7SEG\cy_clock_v2_20.pdf</v>
+<v>LABs\Lab_2_7SEG\cy_constant_v1_0</v>
+<v>LABs\Lab_2_7SEG\cy_constant_v1_0\cy_constant_v1_0.pdf</v>
+<v>LABs\Lab_2_7SEG\cy_isr_v1_70.pdf</v>
+<v>LABs\Lab_2_7SEG\cy_pins_v2_20</v>
+<v>LABs\Lab_2_7SEG\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>LABs\Lab_2_7SEG\cydff_v1_30.pdf</v>
+<v>LABs\Lab_2_7SEG\Gnd_v1_0.pdf</v>
+<v>LABs\Lab_2_7SEG\not_v1_0.pdf</v>
+<v>LABs\Lab_2_7SEG\Power_v1_0.pdf</v>
+<v>LABs\Lab_2_7SEG\Resistor_v1_0</v>
+<v>LABs\Lab_2_7SEG\Resistor_v1_0\Resistor_v1_0.pdf</v>
+<v>LABs\Lab_2_7SEG\SPI_Master_v2_50.pdf</v>
+<v>LABs\Lab_2_7SEG\SwitchSPST_v1_0</v>
+<v>LABs\Lab_2_7SEG\SwitchSPST_v1_0\SwitchSPST_v1_0.pdf</v>
+<v>LABs\Lab_3_1_UART_Transmitting</v>
+<v>LABs\Lab_3_1_UART_Transmitting\PSoC 4 Architecture TRM</v>
+<v>LABs\Lab_3_1_UART_Transmitting\PSoC 4200 BLE Family Datasheet</v>
+<v>LABs\Lab_3_1_UART_Transmitting\System Reference Guides</v>
+<v>LABs\Lab_3_1_UART_Transmitting\System Reference Guides\cy_dmac_v1_10</v>
+<v>LABs\Lab_3_1_UART_Transmitting\System Reference Guides\cy_lfclk_v1_20</v>
+<v>LABs\Lab_3_1_UART_Transmitting\SCB_P4_v4_0.pdf</v>
+<v>LABs\Lab_3_2_UART_Led</v>
+<v>LABs\Lab_3_2_UART_Led\PSoC 4 Architecture TRM</v>
+<v>LABs\Lab_3_2_UART_Led\PSoC 4200 BLE Family Datasheet</v>
+<v>LABs\Lab_3_2_UART_Led\System Reference Guides</v>
+<v>LABs\Lab_3_2_UART_Led\System Reference Guides\cy_dmac_v1_10</v>
+<v>LABs\Lab_3_2_UART_Led\System Reference Guides\cy_lfclk_v1_20</v>
+<v>LABs\Lab_3_2_UART_Led\cy_pins_v2_20</v>
+<v>LABs\Lab_3_2_UART_Led\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>LABs\Lab_3_2_UART_Led\LED_v1_0</v>
+<v>LABs\Lab_3_2_UART_Led\LED_v1_0\LED_v1_0.pdf</v>
+<v>LABs\Lab_3_2_UART_Led\Power_v1_0.pdf</v>
+<v>LABs\Lab_3_2_UART_Led\Resistor_v1_0</v>
+<v>LABs\Lab_3_2_UART_Led\Resistor_v1_0\Resistor_v1_0.pdf</v>
+<v>LABs\Lab_3_2_UART_Led\SCB_P4_v4_0.pdf</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\PSoC 4 Architecture TRM</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\PSoC 4200 BLE Family Datasheet</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\System Reference Guides</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\System Reference Guides\cy_boot_v5_81</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\System Reference Guides\cy_dmac_v1_10</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\System Reference Guides\cy_lfclk_v1_20</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\ADC_SAR_SEQ_P4_v2_50.pdf</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\BLE_v3_66.pdf</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\CapSense_P4_v5_0.pdf</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\cy_clock_v2_20.pdf</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\cy_constant_v1_0</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\cy_constant_v1_0\cy_constant_v1_0.pdf</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\cy_isr_v1_70.pdf</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\cy_pins_v2_20</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Gnd_v1_0</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Gnd_v1_0\Gnd_v1_0.pdf</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\LED_v1_0</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\LED_v1_0\LED_v1_0.pdf</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\or_v1_0.pdf</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Power_v1_0</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Power_v1_0\Power_v1_0.pdf</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\PWM_v3_30.pdf</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Resistor_v1_0</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\Resistor_v1_0\Resistor_v1_0.pdf</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\SCB_P4_v4_0.pdf</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\SPI_Master_v2_50.pdf</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\SwitchSPST_v1_0</v>
+<v>LABs\Lab_4_1_BLE_Automation_IO\SwitchSPST_v1_0\SwitchSPST_v1_0.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>LABs</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\PSoC 4 Architecture TRM</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\PSoC 4200 Family Datasheet</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\System Reference Guides</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\System Reference Guides\cy_boot_v5_70</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\System Reference Guides\cy_lfclk_v1_20</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\ADC_SAR_SEQ_P4_v2_50.pdf</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\cy_clock_v2_20.pdf</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\cy_isr_v1_70.pdf</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\cy_pins_v2_20</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\DieTemp_P4_v1_0.pdf</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\SW_Tx_UART_v1_50.pdf</v>
+<v>LABs\ADC_SAR_Seq_DieTemp_PSoC401\TCPWM_P4_v2_10.pdf</v>
+<v>LABs\Lab_1_1_LED</v>
+<v>LABs\Lab_1_1_LED\PSoC 4 Architecture TRM</v>
+<v>LABs\Lab_1_1_LED\PSoC 4200 BLE Family Datasheet</v>
+<v>LABs\Lab_1_1_LED\System Reference Guides</v>
+<v>LABs\Lab_1_1_LED\System Reference Guides\cy_dmac_v1_10</v>
+<v>LABs\Lab_1_1_LED\System Reference Guides\cy_lfclk_v1_20</v>
+<v>LABs\Lab_1_1_LED\cy_pins_v2_20.pdf</v>
+<v>LABs\Lab_1_1_LED\Gnd_v1_0.pdf</v>
+<v>LABs\Lab_1_1_LED\LED_v1_0.pdf</v>
+<v>LABs\Lab_1_1_LED\Resistor_v1_0.pdf</v>
+<v>LABs\Lab_1_2_LED</v>
+<v>LABs\Lab_1_2_LED\PSoC 4 Architecture TRM</v>
+<v>LABs\Lab_1_2_LED\PSoC 4200 BLE Family Datasheet</v>
+<v>LABs\Lab_1_2_LED\System Reference Guides</v>
+<v>LABs\Lab_1_2_LED\System Reference Guides\cy_dmac_v1_10</v>
+<v>LABs\Lab_1_2_LED\System Reference Guides\cy_lfclk_v1_20</v>
+<v>LABs\Lab_1_2_LED\cy_pins_v2_20.pdf</v>
+<v>LABs\Lab_1_2_LED\Gnd_v1_0.pdf</v>
+<v>LABs\Lab_1_2_LED\LED_v1_0.pdf</v>
+<v>LABs\Lab_1_2_LED\Resistor_v1_0.pdf</v>
+<v>LABs\Lab_1_3_LED</v>
+<v>LABs\Lab_1_3_LED\PSoC 4 Architecture TRM</v>
+<v>LABs\Lab_1_3_LED\PSoC 4200 BLE Family Datasheet</v>
+<v>LABs\Lab_1_3_LED\System Reference Guides</v>
+<v>LABs\Lab_1_3_LED\System Reference Guides\cy_dmac_v1_10</v>
+<v>LABs\Lab_1_3_LED\System Reference Guides\cy_lfclk_v1_20</v>
+<v>LABs\Lab_1_3_LED\cy_clock_v2_20.pdf</v>
+<v>LABs\Lab_1_3_LED\cy_constant_v1_0</v>
+<v>LABs\Lab_1_3_LED\cy_constant_v1_0\cy_constant_v1_0.pdf</v>
+<v>LABs\Lab_1_3_LED\cy_pins_v2_20.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\Lab_4_1_BLE_Automation_IO.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\Lab_4_1_BLE_Automation_IO.cydsn\debug.c" />
+<name v=".\Lab_4_1_BLE_Automation_IO.cydsn\main.c" />
+<name v=".\Lab_4_1_BLE_Automation_IO.cydsn\Lab_4_1_BLE_Automation_IO.cydwr" />
+<name v=".\ADC_SAR_Seq_DieTemp_PSoC401.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\ADC_SAR_Seq_DieTemp_PSoC401.cydsn\main.c" />
+<name v=".\Lab_4_1_BLE_Automation_IO.cydsn\aios.h" />
+<name v=".\Lab_4_1_BLE_Automation_IO.cydsn\aios.c" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1063, 670" SelectedTabbedMdiWindow="61cb172d-2303-405b-a370-4a1ca41de41f"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="293abfe3-5635-4e9c-bb28-a5ea73c70f4a" /><DocumentWindow Key="C:\Users\janusdg-win\UCU\POC\LABALAST\LABs_BLE\Lab_4_1_BLE_Automation_IO.cydsn\TopDesign\TopDesign.cysch" Guid="197189d6-8aca-4ca1-953b-e763a0b91ed6" /><DocumentWindow Key="C:\Users\janusdg-win\UCU\POC\LABALAST\LABs_BLE\Lab_4_1_BLE_Automation_IO.cydsn\debug.c" Guid="216724c0-cedd-47f3-8abc-27bb8689417d" /><DocumentWindow Key="C:\Users\janusdg-win\UCU\POC\LABALAST\LABs_BLE\Lab_4_1_BLE_Automation_IO.cydsn\main.c" Guid="61cb172d-2303-405b-a370-4a1ca41de41f" /><DocumentWindow Key="C:\Users\janusdg-win\UCU\POC\LABALAST\LABs_BLE\Lab_4_1_BLE_Automation_IO.cydsn\Lab_4_1_BLE_Automation_IO.cydwr" Guid="afa52449-8b2e-4666-88f3-b59e00ea77d1" /><DocumentWindow Key="C:\Users\janusdg-win\UCU\POC\LABALAST\LABs_BLE\ADC_SAR_Seq_DieTemp_PSoC401.cydsn\TopDesign\TopDesign.cysch" Guid="f7c54cf8-88d6-4a94-b4d3-c092e6988fd8" /><DocumentWindow Key="C:\Users\janusdg-win\UCU\POC\LABALAST\LABs_BLE\ADC_SAR_Seq_DieTemp_PSoC401.cydsn\main.c" Guid="5bc298ff-0395-4b26-abec-92bc93a29c29" /><DocumentWindow Key="C:\Users\janusdg-win\UCU\POC\LABALAST\LABs_BLE\Lab_4_1_BLE_Automation_IO.cydsn\aios.h" Guid="89cdc0cd-2044-42b0-9e86-8c867deb1f43" /><DocumentWindow Key="C:\Users\janusdg-win\UCU\POC\LABALAST\LABs_BLE\Lab_4_1_BLE_Automation_IO.cydsn\aios.c" Guid="7148c1c6-9c51-44bf-8131-25eafd5fa110" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

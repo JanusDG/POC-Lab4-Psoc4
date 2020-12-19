@@ -1,0 +1,192 @@
+#***************************************************************************
+
+#sjplacer
+
+#Version:            1.1
+
+#Build Date:         Dec  5 2017 15:35:27
+
+#File Generated:     Dec 19 2020 19:59:37
+
+#Purpose:            
+
+#Copyright (C) 2010-2011 by Softjin Technologies Pvt Ltd. All rights reserved.
+
+#***************************************************************************
+
+Executing : C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\bin/sjplacer.exe --proj-name Lab_4_1_BLE_Automation_IO --netlist-vh2 Lab_4_1_BLE_Automation_IO_p.vh2 --arch p4_udb2x2 --arch-file C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\dev\arch/udbdsi_2x2_04.cydata --ip-file C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\dev\psoc4/3/256dma/ip_blocks.cydata --rrg-file C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\dev\psoc4/3/256dma/route_arch-rrg.cydata --irq-file C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\dev\psoc4/3/256dma/irqconn.cydata --drq-file C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\dev\psoc4/3/256dma/triggerconn.cydata --dsi-conn-file C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\dev\psoc4/3/256dma/dsiconn.cydata --pins-file pins_56-QFN.xml --lib-file Lab_4_1_BLE_Automation_IO_p.lib --sdc-file Lab_4_1_BLE_Automation_IO.sdc --io-pcf Lab_4_1_BLE_Automation_IO.pci --outdir .
+
+		Softjin Techologies Placer, Version 1.1
+
+Build Date : Dec  5 2017	15:33:41
+
+D2004: Option and Settings Summary
+=============================================================
+Netlist vh2 file          - Lab_4_1_BLE_Automation_IO_p.vh2
+Architecture file         - C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\dev\arch/udbdsi_2x2_04.cydata
+Package                   - 
+Defparam file             - 
+SDC file                  - Lab_4_1_BLE_Automation_IO.sdc
+Output directory          - .
+Timing library            - Lab_4_1_BLE_Automation_IO_p.lib
+IO Placement file         - Lab_4_1_BLE_Automation_IO.pci
+
+D2050: Starting reading inputs for placer
+=============================================================
+D2065: Reading netlist file : "Lab_4_1_BLE_Automation_IO_p.vh2"
+D2065: Reading arch file : "C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\dev\arch/udbdsi_2x2_04.cydata"
+D2051: Reading of inputs for placer completed successfully
+
+D2053: Starting placement of the design
+=============================================================
+
+Phase 2
+Phase 3
+
+Design Statistics after Packing
+    Number of Combinational MCs 	:	6
+    Number of Sequential MCs    	:	11
+    Number of DPs               	:	3
+    Number of Controls          	:	2
+    Number of Status            	:	2
+    Number of SyncCells         	:	0
+    Number of count7cells       	:	1
+
+Device Utilization Summary after Packing
+    Macrocells                  :	17/32
+    UDBS                        :	4/4
+    IOs                         :	22/38
+
+
+D2088: Phase 3, elapsed time : 0.0 (sec)
+
+Phase 4
+D2088: Phase 4, elapsed time : 0.0 (sec)
+
+Phase 6
+
+######################################################################
+Placement Timing Summary
+
+The timing summary is based on estimated routing delays after
+placement. For final timing report, please carry out the timing
+analysis after routing.
+======================================================================
+
+######################################################################
+                     Clock Summary 
+======================================================================
+Number of clocks: 18
+Clock: ADC_intClock         | Frequency: N/A       | Target:   1.4 MHz
+Clock: ADC_intClock(FFB)    | Frequency: N/A       | Target:   1.4 MHz
+Clock: CapSense_ModClk      | Frequency: N/A       | Target:   0.2 MHz
+Clock: CapSense_ModClk(FFB) | Frequency: N/A       | Target:   0.2 MHz
+Clock: CapSense_SnsClk      | Frequency: N/A       | Target:   0.2 MHz
+Clock: CapSense_SnsClk(FFB) | Frequency: N/A       | Target:   0.2 MHz
+Clock: Clock_1              | Frequency:  56.8 MHz | Target:   0.1 MHz
+Clock: CyECO                | Frequency: N/A       | Target:  24.0 MHz
+Clock: CyHFCLK              | Frequency: N/A       | Target:  48.0 MHz
+Clock: CyILO                | Frequency: N/A       | Target:   0.0 MHz
+Clock: CyIMO                | Frequency: N/A       | Target:  48.0 MHz
+Clock: CyLFCLK              | Frequency: N/A       | Target:   0.0 MHz
+Clock: CyRouted1            | Frequency: N/A       | Target:  48.0 MHz
+Clock: CySYSCLK             | Frequency: N/A       | Target:  24.0 MHz
+Clock: CyWCO                | Frequency: N/A       | Target:   0.0 MHz
+Clock: SPIM_IntClock        | Frequency:  63.3 MHz | Target:   8.0 MHz
+Clock: UART_DEB_SCBCLK      | Frequency: N/A       | Target:   1.8 MHz
+Clock: UART_DEB_SCBCLK(FFB) | Frequency: N/A       | Target:   1.8 MHz
+
+======================================================================
+                     End of Clock Summary
+######################################################################
+
+D2088: Phase 6, elapsed time : 0.0 (sec)
+
+Phase 7
+######################################################################
+                     Clock Summary 
+======================================================================
+Number of clocks: 18
+Clock: ADC_intClock         | Frequency: N/A       | Target:   1.4 MHz
+Clock: ADC_intClock(FFB)    | Frequency: N/A       | Target:   1.4 MHz
+Clock: CapSense_ModClk      | Frequency: N/A       | Target:   0.2 MHz
+Clock: CapSense_ModClk(FFB) | Frequency: N/A       | Target:   0.2 MHz
+Clock: CapSense_SnsClk      | Frequency: N/A       | Target:   0.2 MHz
+Clock: CapSense_SnsClk(FFB) | Frequency: N/A       | Target:   0.2 MHz
+Clock: Clock_1              | Frequency:  56.8 MHz | Target:   0.1 MHz
+Clock: CyECO                | Frequency: N/A       | Target:  24.0 MHz
+Clock: CyHFCLK              | Frequency: N/A       | Target:  48.0 MHz
+Clock: CyILO                | Frequency: N/A       | Target:   0.0 MHz
+Clock: CyIMO                | Frequency: N/A       | Target:  48.0 MHz
+Clock: CyLFCLK              | Frequency: N/A       | Target:   0.0 MHz
+Clock: CyRouted1            | Frequency: N/A       | Target:  48.0 MHz
+Clock: CySYSCLK             | Frequency: N/A       | Target:  24.0 MHz
+Clock: CyWCO                | Frequency: N/A       | Target:   0.0 MHz
+Clock: SPIM_IntClock        | Frequency:  63.3 MHz | Target:   8.0 MHz
+Clock: UART_DEB_SCBCLK      | Frequency: N/A       | Target:   1.8 MHz
+Clock: UART_DEB_SCBCLK(FFB) | Frequency: N/A       | Target:   1.8 MHz
+
+======================================================================
+                     End of Clock Summary
+######################################################################
+D2088: Phase 7, elapsed time : 0.3 (sec)
+
+Final Design Statistics
+    Number of Combinational MCs 	:	6
+    Number of Sequential MCs    	:	11
+    Number of DPs               	:	3
+    Number of Controls          	:	2
+    Number of Status            	:	2
+    Number of SyncCells         	:	0
+    Number of count7cells       	:	1
+    Number of IOs       	:	22
+
+Device Utilization Summary
+    Macrocells                  :	17/32
+    IOs                         :	22/38
+
+
+
+######################################################################
+Placement Timing Summary
+
+The timing summary is based on estimated routing delays after
+placement. For final timing report, please carry out the timing
+analysis after routing.
+======================================================================
+
+
+######################################################################
+                     Clock Summary 
+======================================================================
+Number of clocks: 18
+Clock: ADC_intClock         | Frequency: N/A       | Target:   1.4 MHz
+Clock: ADC_intClock(FFB)    | Frequency: N/A       | Target:   1.4 MHz
+Clock: CapSense_ModClk      | Frequency: N/A       | Target:   0.2 MHz
+Clock: CapSense_ModClk(FFB) | Frequency: N/A       | Target:   0.2 MHz
+Clock: CapSense_SnsClk      | Frequency: N/A       | Target:   0.2 MHz
+Clock: CapSense_SnsClk(FFB) | Frequency: N/A       | Target:   0.2 MHz
+Clock: Clock_1              | Frequency:  56.8 MHz | Target:   0.1 MHz
+Clock: CyECO                | Frequency: N/A       | Target:  24.0 MHz
+Clock: CyHFCLK              | Frequency: N/A       | Target:  48.0 MHz
+Clock: CyILO                | Frequency: N/A       | Target:   0.0 MHz
+Clock: CyIMO                | Frequency: N/A       | Target:  48.0 MHz
+Clock: CyLFCLK              | Frequency: N/A       | Target:   0.0 MHz
+Clock: CyRouted1            | Frequency: N/A       | Target:  48.0 MHz
+Clock: CySYSCLK             | Frequency: N/A       | Target:  24.0 MHz
+Clock: CyWCO                | Frequency: N/A       | Target:   0.0 MHz
+Clock: SPIM_IntClock        | Frequency:  61.0 MHz | Target:   8.8 MHz
+Clock: UART_DEB_SCBCLK      | Frequency: N/A       | Target:   1.8 MHz
+Clock: UART_DEB_SCBCLK(FFB) | Frequency: N/A       | Target:   1.8 MHz
+
+======================================================================
+                     End of Clock Summary
+######################################################################
+
+Phase 8
+D2088: Phase 8, elapsed time : 0.0 (sec)
+
+D2054: Placement of the design completed successfully
+
+I2076: Total run-time: 0.8 sec.
+

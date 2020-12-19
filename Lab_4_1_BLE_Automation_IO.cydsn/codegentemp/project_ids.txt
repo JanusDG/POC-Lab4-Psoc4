@@ -1,0 +1,14 @@
+C:\Users\janusdg-win\UCU\POC\LABALAST\LABs_BLE\Lab_1_1_LED.cydsn\Lab_1_1_LED.cyprj|65ed1814-9e31-4138-bf72-803f1b8cc2be
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|cbd482fa-e7cc-48e1-be19-ed65670d211f
+C:\Users\janusdg-win\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|a2f4d58b-a93f-4e5c-9888-fd6d100dc1ea
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|f28f074e-fc5e-4002-b6ec-3e4c767a8814
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|955ac7ee-b1d0-4ac3-a04c-2c78c06b3bbf
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|1807b022-a56b-406a-a0cb-314a55087b7f
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|7752665a-37c3-4af6-8dce-f3709c01f64e
+C:\Users\janusdg-win\UCU\POC\LABALAST\LABs_BLE\Lab_1_2_LED.cydsn\Lab_1_2_LED.cyprj|3b7d739c-bbfd-4576-b1ba-376248ddbbf9
+C:\Users\janusdg-win\UCU\POC\LABALAST\LABs_BLE\Lab_1_3_LED.cydsn\Lab_1_3_LED.cyprj|b771f992-6099-4450-a889-cbb533b5b859
+C:\Users\janusdg-win\UCU\POC\LABALAST\LABs_BLE\Lab_3_1_UART_Transmitting.cydsn\Lab_3_1_UART_Transmitting.cyprj|c22b2963-3135-442c-b4f3-ba3c6f08a447
+C:\Users\janusdg-win\UCU\POC\LABALAST\LABs_BLE\Lab_3_2_UART_Led.cydsn\Lab_3_2_UART_Led.cyprj|fe45791d-c946-443b-8251-18edb38de36b
+C:\Users\janusdg-win\UCU\POC\LABALAST\LABs_BLE\Lab_2_7SEG.cydsn\Lab_2_7SEG.cyprj|ca94c62c-1a57-4414-9fdc-ef0075550329
+C:\Users\janusdg-win\UCU\POC\LABALAST\LABs_BLE\Lab_4_1_BLE_Automation_IO.cydsn\Lab_4_1_BLE_Automation_IO.cyprj|4761c5b1-12aa-40fe-a713-3f58ce7b9db6
+C:\Users\janusdg-win\UCU\POC\LABALAST\LABs_BLE\ADC_SAR_Seq_DieTemp_PSoC401.cydsn\ADC_SAR_Seq_DieTemp_PSoC401.cyprj|ca050e79-9a71-46a6-8b01-6cfda81b2cd5

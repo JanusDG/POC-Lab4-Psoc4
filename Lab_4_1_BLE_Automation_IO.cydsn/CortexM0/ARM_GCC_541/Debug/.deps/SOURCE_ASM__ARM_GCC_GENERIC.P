@@ -1,0 +1,8 @@
+C:/Users/janusdg-win/UCU/POC/LABALAST/LABs_BLE/Lab_4_1_BLE_Automation_IO.cydsn/CortexM0/ARM_GCC_541/Debug/CyBootAsmGnu.o : C:/Users/janusdg-win/UCU/POC/LABALAST/LABs_BLE/Lab_4_1_BLE_Automation_IO.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s C:/Users/janusdg-win/UCU/POC/LABALAST/LABs_BLE/Lab_4_1_BLE_Automation_IO.cydsn/Generated_Source/PSoC4/cydevicegnu_trm.inc C:/Users/janusdg-win/UCU/POC/LABALAST/LABs_BLE/Lab_4_1_BLE_Automation_IO.cydsn/Generated_Source/PSoC4/cyfittergnu.inc 
+
+C:/Users/janusdg-win/UCU/POC/LABALAST/LABs_BLE/Lab_4_1_BLE_Automation_IO.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s : 
+
+C:/Users/janusdg-win/UCU/POC/LABALAST/LABs_BLE/Lab_4_1_BLE_Automation_IO.cydsn/Generated_Source/PSoC4/cydevicegnu_trm.inc : 
+
+C:/Users/janusdg-win/UCU/POC/LABALAST/LABs_BLE/Lab_4_1_BLE_Automation_IO.cydsn/Generated_Source/PSoC4/cyfittergnu.inc : 
+
